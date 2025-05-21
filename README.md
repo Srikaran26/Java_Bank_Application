@@ -9,8 +9,6 @@ This is a console-based banking system project developed in Java. It demonstrate
 - [OOP Concepts Demonstrated](#oop-concepts-demonstrated)
 - [Features](#features)
 - [Class Design](#class-design)
-- [How to Run](#how-to-run)
-- [Next Steps](#next-steps)
 
 ## Overview
 
